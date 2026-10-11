@@ -148,3 +148,28 @@ Historical backtesting results do not guarantee future performance and should no
 **Fernando Álvarez**  
 Full Stack Developer | AI-Assisted Software Development  
 Algorithmic Trading & Pine Script Development
+
+
+---
+
+## 📸 Strategy in Action
+
+### TradingView Chart & Trade Signals
+
+The strategy identifies potential long and short opportunities using EMA behavior, trend strength, volatility filters and risk-management rules.
+
+![TradingView Strategy](./estrategia_comercial_1.png)
+
+### Trade Execution History
+
+TradingView's Strategy Tester allows the system to be evaluated through historical trades, including long and short positions.
+
+![Trade History](./estrategia_de_comercio_2.png)
+
+### Backtesting Performance
+
+Historical backtesting is used to analyze strategy behavior, profitability, drawdown, win rate and profit factor under the tested configuration.
+
+![Backtesting Performance](./estrategia_de_comercio_3.png)
+
+> **Disclaimer:** Backtesting results are historical simulations and do not guarantee future performance.
