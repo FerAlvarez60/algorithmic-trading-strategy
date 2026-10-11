@@ -152,6 +152,8 @@ Algorithmic Trading & Pine Script Development
 
 ---
 
+---
+
 ## 📸 Strategy in Action
 
 ### TradingView Chart & Trade Signals
